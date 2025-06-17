@@ -1,0 +1,3 @@
+customerID,tenure,MonthlyCharges,TotalCharges,Churn
+001,5,70.35,351.75,Yes
+002,2,45.50,91.00,No
